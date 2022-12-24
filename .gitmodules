@@ -1,0 +1,3 @@
+[submodule "NotesHacking"]
+	path = NotesHacking
+	url = https://github.com/oskars-notes/NotesHacking
