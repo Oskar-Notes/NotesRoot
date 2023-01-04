@@ -1,3 +1,6 @@
 [submodule "NotesHacking"]
 	path = NotesHacking
 	url = https://github.com/oskars-notes/NotesHacking
+[submodule "noteslinux"]
+	path = noteslinux
+	url = https://github.com/oskars-notes/noteslinux
